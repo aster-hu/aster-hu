@@ -31,12 +31,11 @@ Here are some ideas to get you started:
 
 ### 🔖 Latest Blog Posts
 <!-- Blogpost starts -->
-- [Review White Nights 12-Watercolour Box Set: Pros and Cons](https://asterhu.com/white-nights-review/)
-- [How to Setup Website on Netlify for Namecheap Domain](https://asterhu.com/how-to-setup-website-on-netlify/)
-- [I Finally Bought My Own Domain](https://asterhu.com/custom-domain-for-personal-website/)
-- [DIY a Watercolour Palette Using Altoids Mint Tin](https://asterhu.com/diy-altoid-tin-watercolour-palette/)
-- [My New Profile Photo](https://asterhu.com/palette-profile-photo/)
-- [It's OK to be Imperfect](https://asterhu.com/its-ok-to-be-imperfect/)
+* [Review White Nights 12-Watercolour Box Set: Pros and Cons](https://asterhu.com/white-nights-review/) - 2021-09-12
+* [How to Setup Website on Netlify for Namecheap Domain](https://asterhu.com/how-to-setup-website-on-netlify/) - 2021-09-01
+* [I Finally Bought My Own Domain](https://asterhu.com/custom-domain-for-personal-website/) - 2021-08-30
+* [DIY a Watercolour Palette Using Altoids Mint Tin](https://asterhu.com/DIY-altoid-tin-watercolour-palette/) - 2021-08-27
+* [My New Profile Photo](https://asterhu.com/palette-profile-photo/) - 2021-08-15
 <!-- Blogpost ends -->
 
 <br>
