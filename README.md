@@ -12,7 +12,7 @@
 
 - 🚀 &nbsp; Current Project: building my sleeptime heatmap
 
-- 💡 &nbsp; 100% Self-taught learner. Courses do not work for me; I like hands-on practice
+- 💡 &nbsp; 100% Self-taught learner. I like hands-on practice!
 
 - 🎨 &nbsp; I love art in general, sketching, calligraphy, classical music, etc.
 
