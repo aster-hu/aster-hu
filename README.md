@@ -1,3 +1,5 @@
+[![Build README](https://github.com/aster-hu/aster-hu/actions/workflows/build.yml/badge.svg)](https://github.com/aster-hu/aster-hu/actions/workflows/build.yml)
+
 ### Thanks for visiting!
 
 <!--
