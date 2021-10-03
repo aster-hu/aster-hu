@@ -14,7 +14,7 @@
 
   - Sleep time heatmap
   - Toggl graph report
-  - Plan care schedule reminder
+  - 🪴 Plant care schedule reminder
 
 - 💡 &nbsp; 100% Self-taught learner. I like hands-on practice!
 
