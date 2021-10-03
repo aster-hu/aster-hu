@@ -10,7 +10,11 @@
 
 - 💼 &nbsp; [Business Analyst](https://www.linkedin.com/in/asterhu/) at TD Bank, focusing on Data Management
 
-- 🚀 &nbsp; Current Project: building my sleeptime heatmap
+- 🚀 &nbsp; Current Project: 
+
+  - Sleep time heatmap
+  - Toggl graph report
+  - Plan care schedule reminder
 
 - 💡 &nbsp; 100% Self-taught learner. I like hands-on practice!
 
