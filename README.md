@@ -10,11 +10,11 @@
 
 - 💼 &nbsp; [Business Analyst](https://www.linkedin.com/in/asterhu/) at TD Bank, focusing on Data Management
 
-- 🚀 &nbsp; Current Project: 
+- 🚀 &nbsp; Current WIP Project: 
 
   - Sleep time heatmap
   - Toggl graph report
-  - 🪴 Plant care schedule reminder
+  - Plant care schedule reminder
 
 - 💡 &nbsp; 100% Self-taught learner. I like hands-on practice!
 
