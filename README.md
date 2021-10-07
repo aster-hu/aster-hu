@@ -10,9 +10,13 @@
 
 - 💼 &nbsp; [Business Analyst](https://www.linkedin.com/in/asterhu/) at TD Bank, focusing on Data Management
 
-- 🚀 &nbsp; Current Project: building my sleeptime heatmap
+- 🚀 &nbsp; Current WIP Project: 
 
-- 💡 &nbsp; 100% Self-taught learner. Courses do not work for me; I like hands-on practice
+  - Sleep time heatmap
+  - Toggl graph report
+  - Plant care schedule reminder
+
+- 💡 &nbsp; 100% Self-taught learner. I like hands-on practice!
 
 - 🎨 &nbsp; I love art in general, sketching, calligraphy, classical music, etc.
 
