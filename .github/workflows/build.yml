@@ -3,7 +3,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '0 0 * * *'
+    - cron:  '0 5 * * *' # run every day at 5 am
 jobs:
   build:
     runs-on: macos-latest
