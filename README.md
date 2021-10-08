@@ -26,11 +26,11 @@
 
 ### 🔖 Latest Blog Posts
 <!-- Blogpost starts -->
+* [How to Create a Dynamic Github Profile](https://asterhu.com/build-readme-automatically/) - 2021-10-01
 * [Review White Nights 12-Watercolour Box Set: Pros and Cons](https://asterhu.com/white-nights-review/) - 2021-09-12
 * [How to Setup Website on Netlify for Namecheap Domain](https://asterhu.com/how-to-setup-website-on-netlify/) - 2021-09-01
 * [I Finally Bought My Own Domain](https://asterhu.com/custom-domain-for-personal-website/) - 2021-08-30
 * [DIY a Watercolour Palette Using Altoids Mint Tin](https://asterhu.com/DIY-altoid-tin-watercolour-palette/) - 2021-08-27
-* [My New Profile Photo](https://asterhu.com/palette-profile-photo/) - 2021-08-15
 <!-- Blogpost ends -->
 
 <br>
