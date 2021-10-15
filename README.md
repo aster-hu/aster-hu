@@ -13,8 +13,8 @@
 - 🚀 &nbsp; Current WIP Project: 
 
   - [x] Sleep time heatmap
-  - [] Toggl graph report
-  - [] Plant care schedule reminder
+  - [ ] Toggl graph report
+  - [ ] Plant care schedule reminder
 
 - 💡 &nbsp; 100% Self-taught learner. I like hands-on practice!
 
