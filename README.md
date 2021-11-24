@@ -28,9 +28,9 @@
 <!-- Blogpost starts -->
 * [Squid Game: The probability of Glass Bridge](https://asterhu.com/squid-game-probability/) - 2021-11-04
 * [How to Create a Dynamic Github Profile](https://asterhu.com/build-readme-automatically/) - 2021-10-01
-* [Test](https://asterhu.com/palette-profile-photo/) - 2021-09-30
 * [Review White Nights 12-Watercolour Box Set: Pros and Cons](https://asterhu.com/white-nights-review/) - 2021-09-12
 * [How to Setup Website on Netlify for Namecheap Domain](https://asterhu.com/how-to-setup-website-on-netlify/) - 2021-09-01
+* [I Finally Bought My Own Domain](https://asterhu.com/custom-domain-for-personal-website/) - 2021-08-30
 <!-- Blogpost ends -->
 
 <br>
