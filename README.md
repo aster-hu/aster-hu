@@ -26,11 +26,11 @@
 
 ### 🔖 Latest Blog Posts
 <!-- Blogpost starts -->
+* [The truth about houseplants that are toxic to cats](https://asterhu.com/plant-toxicity-and-cats/) - 2022-10-25
 * [Course Review: Data Science with R](https://asterhu.com/data-science-with-r-review/) - 2022-04-18
 * [Squid Game: The probability of Glass Bridge](https://asterhu.com/squid-game-probability/) - 2021-11-04
 * [How to Create a Dynamic Github Profile](https://asterhu.com/build-readme-automatically/) - 2021-10-01
 * [Review White Nights 12-Watercolour Box Set: Pros and Cons](https://asterhu.com/white-nights-review/) - 2021-09-12
-* [How to Setup Website on Netlify for Namecheap Domain](https://asterhu.com/how-to-setup-website-on-netlify/) - 2021-09-01
 <!-- Blogpost ends -->
 
 <br>
