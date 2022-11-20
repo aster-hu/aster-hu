@@ -26,11 +26,11 @@
 
 ### 🔖 Latest Blog Posts
 <!-- Blogpost starts -->
+* [Import Excel to R: ampersand shows `&amp;` instead of `&amp;` when using openxlsx](https://asterhu.com/import-excel-formula-with-ampersand-to-R/) - 2022-11-18
 * [The truth about houseplants that are toxic to cats](https://asterhu.com/plant-toxicity-and-cats/) - 2022-10-25
 * [Course Review: Data Science with R](https://asterhu.com/data-science-with-r-review/) - 2022-04-18
 * [Squid Game: The probability of Glass Bridge](https://asterhu.com/squid-game-probability/) - 2021-11-04
 * [How to Create a Dynamic Github Profile](https://asterhu.com/build-readme-automatically/) - 2021-10-01
-* [Review White Nights 12-Watercolour Box Set: Pros and Cons](https://asterhu.com/white-nights-review/) - 2021-09-12
 <!-- Blogpost ends -->
 
 <br>
