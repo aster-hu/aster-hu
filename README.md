@@ -27,7 +27,7 @@
 ### 🔖 Latest Blog Posts
 <!-- Blogpost starts -->
 * [2023 Podcast listening challenge](https://asterhu.com/2023-Podcast-listening-challenge/) - 2023-01-06
-* [Import Excel to R: ampersand shows `&amp;` instead of `&amp;` when using openxlsx](https://asterhu.com/import-excel-formula-with-ampersand-to-R/) - 2022-11-18
+* [Alternatives of openxlsx when importing Excel to R](https://asterhu.com/import-excel-formula-with-ampersand-to-R/) - 2022-11-18
 * [The truth about houseplants that are toxic to cats](https://asterhu.com/plant-toxicity-and-cats/) - 2022-10-25
 * [Course Review: Data Science with R](https://asterhu.com/data-science-with-r-review/) - 2022-04-18
 * [Squid Game: The probability of Glass Bridge](https://asterhu.com/squid-game-probability/) - 2021-11-04
