@@ -12,13 +12,14 @@
 
 - 🚀 &nbsp; Current WIP Project: 
 
+  - [x] Deals bot
   - [x] Sleep time heatmap
-  - [ ] Toggl graph report
-  - [ ] Plant care schedule reminder
+  - ~~[ ] Toggl graph report~~
+  - ~~[ ] Plant care schedule reminder~~
 
 - 💡 &nbsp; 100% Self-taught learner. I like hands-on practice!
 
-- 🎨 &nbsp; I love art in general, sketching, calligraphy, classical music, etc.
+- 🎨 &nbsp; I love art in general, knitting, sketching, calligraphy, classical music, etc.
 
 <br>
 
