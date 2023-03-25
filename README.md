@@ -27,11 +27,11 @@
 
 ### 🔖 Latest Blog Posts
 <!-- Blogpost starts -->
-* [2023 Podcast listening challenge](https://asterhu.com/2023-Podcast-listening-challenge/) - 2023-01-06
-* [Alternatives of openxlsx when importing Excel to R](https://asterhu.com/import-excel-formula-with-ampersand-to-R/) - 2022-11-18
-* [The truth about houseplants that are toxic to cats](https://asterhu.com/plant-toxicity-and-cats/) - 2022-10-25
-* [Course Review: Data Science with R](https://asterhu.com/data-science-with-r-review/) - 2022-04-18
-* [Squid Game: The probability of Glass Bridge](https://asterhu.com/squid-game-probability/) - 2021-11-04
+* [Set up a clean python environment for ARM-based Mac in 2023](https://asterhu.com/post/2023-02-21-setup-python-environment-for-ARM-based-Mac/index.html) - 2023-02-21
+* [2023 Podcast listening challenge](https://asterhu.com/post/2023-01-06-2023-podcast-listening-challenge/index.html) - 2023-01-06
+* [Alternatives of openxlsx when importing Excel to R](https://asterhu.com/post/2022-11-18-import-excel-formula-with-ampersand-to-R/index.html) - 2022-11-18
+* [The truth about houseplants that are toxic to cats](https://asterhu.com/post/2022-10-25-plant-toxicity-and-cats/index.html) - 2022-10-25
+* [Course Review: Data Science with R](https://asterhu.com/post/2022-04-18-data-science-with-r-review/index.html) - 2022-04-18
 <!-- Blogpost ends -->
 
 <br>
