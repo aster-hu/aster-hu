@@ -3,6 +3,7 @@
 import feedparser
 import pathlib
 import re
+from datetime import datetime
 
 root = pathlib.Path(__file__).parent.resolve()
 
@@ -21,14 +22,14 @@ def replace_writing(content, marker, chunk, inline=False):
 
 # Fetch the lastest 5 posts by feedparser
 def fetch_writing():
-    entries = feedparser.parse('https://asterhu.com/feed.xml')['entries']
+    entries = feedparser.parse('https://asterhu.com/index.xml')['entries']
     top5_entries = entries[:5]
     entry_count = len(entries)
     return [
                {
                    'title': entry['title'],
                    'url': entry['link'].split('#')[0],
-                   'published': re.findall(r'(.*?)T00:00', entry['published'])[0]
+                   'published': datetime.strptime(entry['published'], '%a, %d %b %Y %H:%M:%S %Z').strftime('%Y-%m-%d') #Convert date format to YYYY-MM-dd
                }
                for entry in top5_entries
            ], entry_count

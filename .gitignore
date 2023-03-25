@@ -1,0 +1,16 @@
+.Rproj.user
+*.code-workspace
+*.Rproj
+.Rhistory
+.RData
+.ipynb_checkpoints
+_publish.yml
+
+### macOS ###
+# General
+*/.DS_Store
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+/.quarto/
