@@ -33,9 +33,3 @@
 * [2023 Podcast listening challenge](https://asterhu.com/post/2023-01-06-2023-podcast-listening-challenge/index.html) - 2023-01-06
 * [Alternatives of openxlsx when importing Excel to R](https://asterhu.com/post/2022-11-18-import-excel-formula-with-ampersand-to-R/index.html) - 2022-11-18
 <!-- Blogpost ends -->
-
-<br>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aster-hu&show_icons=true&hide_border=true&theme=city_lights&layout=compact)](https://github.com/aster-hu)
