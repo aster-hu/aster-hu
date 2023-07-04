@@ -4,7 +4,7 @@
 
 ### About me
 
-- 💼 &nbsp; [Senior Analyst](https://www.linkedin.com/in/asterhu/) at banking industry, focusing on Reporting & Tooling at Data Governance
+- 💼 &nbsp; [Senior Analyst](https://www.linkedin.com/in/asterhu/) in the banking industry, focusing on Reporting & Tooling at Data Governance
 
 - 🚀 &nbsp; Current WIP Project:
 
