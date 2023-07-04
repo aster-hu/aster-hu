@@ -1,27 +1,16 @@
 [![Build README](https://github.com/aster-hu/aster-hu/actions/workflows/build.yml/badge.svg)](https://github.com/aster-hu/aster-hu/actions/workflows/build.yml)
 
-### Thanks for visiting!
+## Thanks for visiting!
 
-<!--
-**aster-hu/aster-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### About me
 
-**About me**
+- 💼 &nbsp; [Senior Analyst](https://www.linkedin.com/in/asterhu/) at banking industry, focusing on Reporting & Tooling at Data Governance
 
-- 💼 &nbsp; [Business Analyst](https://www.linkedin.com/in/asterhu/) at TD Bank, focusing on Data Management
+- 🚀 &nbsp; Current WIP Project:
 
-- 🚀 &nbsp; Current WIP Project: 
-
+  - [ ] Analyze time tracking history
   - [x] Deals bot
   - [x] Sleep time heatmap
-  - ~~[ ] Toggl graph report~~
-  - ~~[ ] Plant care schedule reminder~~
-
-- 💡 &nbsp; 100% Self-taught learner. I like hands-on practice!
-
-- 🎨 &nbsp; I love art in general, knitting, sketching, calligraphy, classical music, etc.
-
-<br>
 
 ---
 
