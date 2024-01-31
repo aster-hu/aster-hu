@@ -8,7 +8,7 @@
 
 - 🚀 &nbsp; Current WIP Project:
 
-  - [ ] Analyze time tracking history
+  - [x] Analyze time tracking history
   - [x] Deals bot
   - [x] Sleep time heatmap
 
