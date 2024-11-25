@@ -4,13 +4,20 @@
 
 ### About me
 
-- 💼 &nbsp; [Senior Analyst](https://www.linkedin.com/in/asterhu/) in the banking industry, focusing on Reporting & Tooling at Data Governance
+- 💼 &nbsp; I work in Data Risk Management as [Manager, Data Strategy & Governance](https://www.linkedin.com/in/asterhu/) in the banking industry, where I design Key Risk Indicators (KRIs) methodology at the enterprise level and also oversee risk measures created by the first-line business partners.
 
-- 🚀 &nbsp; Current WIP Project:
+- 👩‍💻 &nbsp; Coding is my hobby, so is knitting ˚˖𓍢ִ໋🧶✧˚🪡.⋆! 
 
-  - [x] Analyze time tracking history
-  - [x] Deals bot
-  - [x] Sleep time heatmap
+- 🚀 &nbsp; Current WIP Project
+
+  #### 2024
+  - [ ] Automate time tracking report
+  - [x] ~~Build a personal wiki~~: [Publish org-roam notes to personal wiki using ox-hugo and Quartz](https://www.asterhu.com/post/20240220-publish-org-roam-with-quartz-oxhugo/)
+  - [x] ~~Analyze time tracking history~~: [Analyzing every minutes of my spare time in R: 6 months of time tracking insights](https://www.asterhu.com/post/2023-09-18-time-tracking-analysis/)
+ 
+  #### 2023
+  - [x] ~~Deals bot~~
+  - [x] ~~Sleep time heatmap~~
 
 ---
 
