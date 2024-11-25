@@ -12,6 +12,7 @@
 
   #### 2024
   - [ ] Automate time tracking report
+  - [ ] ~~Create a diary-like personal blog~~ [Purling Thoughts](https://thoughts.asterhu.com/)
   - [x] ~~Build a personal wiki~~: [Publish org-roam notes to personal wiki using ox-hugo and Quartz](https://www.asterhu.com/post/20240220-publish-org-roam-with-quartz-oxhugo/)
   - [x] ~~Analyze time tracking history~~: [Analyzing every minutes of my spare time in R: 6 months of time tracking insights](https://www.asterhu.com/post/2023-09-18-time-tracking-analysis/)
  
