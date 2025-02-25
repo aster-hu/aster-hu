@@ -22,7 +22,7 @@ def replace_writing(content, marker, chunk, inline=False):
 
 # Fetch the lastest 5 posts by feedparser
 def fetch_writing():
-    entries = feedparser.parse('https://asterhu.com/index.xml')['entries']
+    entries = feedparser.parse('https://asterhu.com/post/index.xml')['entries']
     top5_entries = entries[:5]
     entry_count = len(entries)
     return [
