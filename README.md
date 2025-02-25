@@ -24,9 +24,9 @@
 
 ### 🔖 Latest Blog Posts
 <!-- Blogpost starts -->
-* [My app defaults 2024](https://www.asterhu.com/post/202407-my-app-defaults/) - 2024-07-20
-* [Publish org-roam notes to personal wiki using ox-hugo and Quartz](https://www.asterhu.com/post/20240220-publish-org-roam-with-quartz-oxhugo/) - 2024-02-21
-* [Culture difference when reading vertical text](https://www.asterhu.com/post/20240204-culture-difference-book-spins/) - 2024-02-04
-* [Authenticate github with SSH keys and automate git push with crontab on macOS](https://www.asterhu.com/post/2023-12-21-use-ssh-github-push-crontab/) - 2023-12-21
-* [Analyzing every minutes of my spare time in R: 6 months of time tracking insights](https://www.asterhu.com/post/2023-09-18-time-tracking-analysis/) - 2023-09-18
+* [Excel vs. Database trade-off](https://www.asterhu.com/thoughts/excel_database_trade_off.html) - 2025-01-23
+* [Having a daily log?](https://www.asterhu.com/thoughts/daily_log.html) - 2025-01-22
+* [The future of postal services (cont’d)](https://www.asterhu.com/thoughts/the_future_of_postal_services_cont_d.html) - 2024-12-17
+* [The future of postal services](https://www.asterhu.com/thoughts/the_future_of_postal_services.html) - 2024-11-22
+* [The Tower of Babel continues](https://www.asterhu.com/thoughts/the_tower_of_babel_continues.html) - 2024-11-21
 <!-- Blogpost ends -->
