@@ -21,18 +21,34 @@ def replace_writing(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 # Fetch the lastest 5 posts by feedparser
+
 def fetch_writing():
-    entries = feedparser.parse('https://asterhu.com/post/index.xml')['entries']
-    top5_entries = entries[:5]
-    entry_count = len(entries)
+    urls = [
+        'https://asterhu.com/post/index.xml',
+        'https://asterhu.com/thoughts/index.xml'
+    ]
+    
+    all_entries = []
+    total_entry_count = 0
+    
+    for url in urls:
+        feed = feedparser.parse(url)
+        entries = feed['entries']
+        total_entry_count += len(entries)
+        all_entries.extend(entries[:5])
+    
+    # Sort by published date (assuming RSS feed provides a valid format)
+    all_entries.sort(key=lambda entry: datetime.strptime(entry['published'], '%a, %d %b %Y %H:%M:%S %Z'), reverse=True)
+    
     return [
-               {
-                   'title': entry['title'],
-                   'url': entry['link'].split('#')[0],
-                   'published': datetime.strptime(entry['published'], '%a, %d %b %Y %H:%M:%S %Z').strftime('%Y-%m-%d') #Convert date format to YYYY-MM-dd
-               }
-               for entry in top5_entries
-           ], entry_count
+        {
+            'title': entry['title'],
+            'url': entry['link'].split('#')[0],
+            'published': datetime.strptime(entry['published'], '%a, %d %b %Y %H:%M:%S %Z').strftime('%Y-%m-%d') #Convert date format to YYYY-MM-dd
+        }
+        for entry in all_entries[:5]  # Keep only the top 5 most recent entries
+    ], total_entry_count
+    
 
 # Execution the code
 if __name__ == '__main__':
