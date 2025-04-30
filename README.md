@@ -24,9 +24,9 @@
 
 ### 🔖 Latest Blog Posts
 <!-- Blogpost starts -->
+* [Election day](https://www.asterhu.com/thoughts/election_day.html) - 2025-04-30
 * [ChatGPT: Guess my MBTI](https://www.asterhu.com/thoughts/chatgpt_guess_mbti.html) - 2025-04-16
 * [Excel vs. Database trade-off](https://www.asterhu.com/thoughts/excel_database_trade_off.html) - 2025-01-23
 * [Having a daily log?](https://www.asterhu.com/thoughts/daily_log.html) - 2025-01-22
 * [The future of postal services (cont’d)](https://www.asterhu.com/thoughts/the_future_of_postal_services_cont_d.html) - 2024-12-17
-* [The future of postal services](https://www.asterhu.com/thoughts/the_future_of_postal_services.html) - 2024-11-22
 <!-- Blogpost ends -->
